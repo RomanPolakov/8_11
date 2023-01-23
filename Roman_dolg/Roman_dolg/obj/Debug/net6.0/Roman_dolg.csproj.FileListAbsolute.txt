@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Сессия 1\Roman_dolg\Roman_dolg\bin\Debug\net6.0\Roman_dolg.exe
+C:\Users\user\Desktop\Сессия 1\Roman_dolg\Roman_dolg\bin\Debug\net6.0\Roman_dolg.deps.json
+C:\Users\user\Desktop\Сессия 1\Roman_dolg\Roman_dolg\bin\Debug\net6.0\Roman_dolg.runtimeconfig.json
+C:\Users\user\Desktop\Сессия 1\Roman_dolg\Roman_dolg\bin\Debug\net6.0\Roman_dolg.dll
+C:\Users\user\Desktop\Сессия 1\Roman_dolg\Roman_dolg\bin\Debug\net6.0\Roman_dolg.pdb
+C:\Users\user\Desktop\Сессия 1\Roman_dolg\Roman_dolg\obj\Debug\net6.0\Roman_dolg.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Сессия 1\Roman_dolg\Roman_dolg\obj\Debug\net6.0\Roman_dolg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Сессия 1\Roman_dolg\Roman_dolg\obj\Debug\net6.0\Roman_dolg.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Сессия 1\Roman_dolg\Roman_dolg\obj\Debug\net6.0\Roman_dolg.AssemblyInfo.cs
+C:\Users\user\Desktop\Сессия 1\Roman_dolg\Roman_dolg\obj\Debug\net6.0\Roman_dolg.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Сессия 1\Roman_dolg\Roman_dolg\obj\Debug\net6.0\Roman_dolg.dll
+C:\Users\user\Desktop\Сессия 1\Roman_dolg\Roman_dolg\obj\Debug\net6.0\refint\Roman_dolg.dll
+C:\Users\user\Desktop\Сессия 1\Roman_dolg\Roman_dolg\obj\Debug\net6.0\Roman_dolg.pdb
+C:\Users\user\Desktop\Сессия 1\Roman_dolg\Roman_dolg\obj\Debug\net6.0\Roman_dolg.genruntimeconfig.cache
+C:\Users\user\Desktop\Сессия 1\Roman_dolg\Roman_dolg\obj\Debug\net6.0\ref\Roman_dolg.dll
